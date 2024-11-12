@@ -30,3 +30,7 @@ La funcionalidad principal se basa en la comunicación con la PokeAPI para obten
 - `getPokemon`: función asíncrona que obtiene los datos de un Pokémon desde la API.
 - `displayPokemon`: función para actualizar el DOM con los datos obtenidos.
 - Manejadores de eventos en los elementos de imagen de Pokémon que permiten la interacción.
+
+## GitHub Pages
+
+- Visualización: https://illojuanma.github.io/CodeSpace_PokeApi/
